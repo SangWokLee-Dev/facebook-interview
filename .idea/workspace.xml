@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a7b64b-e1b8-420d-b6ed-ac5d081453bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/facebook/population/MockData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/facebook/population/MockData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/facebook/population/SearchHighestPopulationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/facebook/population/SearchHighestPopulationTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,24 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="671">
-              <caret line="64" column="3" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1579917274563" expanded="true" signature="784:994" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="24" column="51" selection-end-line="32" />
+            <state relative-caret-position="427">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,58 +36,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/PopulationFinder.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/StringPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/util/BinarySearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/util/ArrayRotation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/util/Factorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="35" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/util/Recursive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -105,8 +47,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LengthOfLongestSubstringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="120">
               <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/RemoveDuplicatesArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,8 +83,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/MockData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="120">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeStringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/ReverseStringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/TestReverseInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,17 +196,18 @@
       </list>
     </option>
   </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="JUnit" name="LengthOfLongestSubstringTest.testLengthOfLongestSubString" />
-    </enabled-run-configurations>
-  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="vmOptionsForImporter" value="-Xms256m -Xmx512m -Djavax.net.ssl.keyStore=/Users/lees97/.ssh/developerCertificate.p12 -Djavax.net.ssl.keyStorePassword=Kpoder159357! -Djavax.net.ssl.keyStoreType=PKCS12 -Djavax.net.ssl.trustStore=/Users/lees97/certs/jssecacerts -Djavax.net.ssl.trustStorePassword=changeit" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="210" />
@@ -205,6 +220,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -341,6 +358,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -352,12 +379,19 @@
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
               <item name="population" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,23 +415,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SearchHighestPopulationTest.testHighestPopulationYearOSquaredN">
-    <configuration name="LengthOfLongestSubstringTest.testLengthOfLongestSubString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Facebook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.LengthOfLongestSubstringTest" />
-      <option name="METHOD_NAME" value="testLengthOfLongestSubString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SearchHighestPopulationTest">
     <configuration name="SearchHighestPopulationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
@@ -445,6 +463,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchHighestPopulationTest.testHighestPopulationYearON" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.facebook.population.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.facebook.population" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.population.SearchHighestPopulationTest" />
+      <option name="METHOD_NAME" value="testHighestPopulationYearON" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchHighestPopulationTest.testHighestPopulationYearOSquaredN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
@@ -463,11 +497,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SearchHighestPopulationTest" />
+        <item itemvalue="JUnit.SearchHighestPopulationTest.testHighestPopulationYearON" />
         <item itemvalue="JUnit.SearchHighestPopulationTest.testHighestPopulationYearOSquaredN" />
         <item itemvalue="JUnit.SearchHighestPopulationTest.testHighestPopulationYear2" />
         <item itemvalue="JUnit.SearchHighestPopulationTest.testHighestPopulationYear" />
-        <item itemvalue="JUnit.SearchHighestPopulationTest" />
-        <item itemvalue="JUnit.LengthOfLongestSubstringTest.testLengthOfLongestSubString" />
       </list>
     </recent_temporary>
   </component>
@@ -485,42 +519,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear2 - 2020.01.25 at 04h 11m 10s.xml">
-      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYearON - 2020.01.25 at 05h 46m 42s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYearON" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear - 2020.01.25 at 04h 11m 14s.xml">
-      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYearON - 2020.01.25 at 05h 46m 46s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYearON" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear2 - 2020.01.25 at 04h 11m 21s.xml">
-      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYearOSquaredN - 2020.01.25 at 12h 40m 43s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYearOSquaredN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear2 - 2020.01.25 at 04h 11m 28s.xml">
-      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYearON - 2020.01.25 at 12h 40m 50s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYearON" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear - 2020.01.25 at 04h 11m 33s.xml">
-      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYearOSquaredN - 2020.01.25 at 12h 42m 12s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYearOSquaredN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear - 2020.01.25 at 04h 12m 10s.xml">
-      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYearON - 2020.01.25 at 12h 42m 19s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYearON" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear2 - 2020.01.25 at 04h 12m 18s.xml">
-      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest - 2020.01.25 at 12h 42m 28s.xml">
+      <configuration name="SearchHighestPopulationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear - 2020.01.25 at 04h 12m 28s.xml">
-      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest - 2020.01.25 at 12h 42m 50s.xml">
+      <configuration name="SearchHighestPopulationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear - 2020.01.25 at 04h 13m 02s.xml">
-      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest - 2020.01.25 at 12h 43m 34s.xml">
+      <configuration name="SearchHighestPopulationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear2 - 2020.01.25 at 04h 13m 25s.xml">
-      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYearON - 2020.01.25 at 12h 44m 00s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYearON" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="972" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.66167194" visible="true" weight="0.17765568" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.66167194" visible="true" weight="0.18131869" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -532,7 +566,7 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32954547" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.36363637" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.36363637" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.24772727" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -543,7 +577,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32967034" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -618,19 +652,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java</url>
-          <line>14</line>
+          <line>17</line>
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java</url>
-          <line>18</line>
+          <line>22</line>
           <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java</url>
-          <line>19</line>
+          <line>23</line>
           <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
@@ -947,26 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RemoveDuplicatesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -977,29 +991,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/ReverseStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/AddTwoNums.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/Conditional.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/TestReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/util/RecursiveTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1077,16 +1071,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-131">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/IntegerPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1094,34 +1078,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/RemoveDuplicatesArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/StringPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -1174,10 +1134,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LengthOfLongestSubstringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/StringPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
+          <caret line="11" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LengthOfLongestSubstringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
           <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/RemoveDuplicatesArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1186,18 +1190,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/MockData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="120">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="24" column="51" selection-end-line="32" />
+        <state relative-caret-position="105">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/ReverseStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/TestReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
