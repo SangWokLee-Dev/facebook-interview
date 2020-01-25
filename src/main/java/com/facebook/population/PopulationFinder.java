@@ -7,6 +7,7 @@ import java.util.Map;
 public class PopulationFinder {
 
   public static int findYearWithHighestPopulation(List<Person> people) {
+    long start = System.currentTimeMillis();
     Map<Integer, Integer> yearCounts = new HashMap<>();
 
     int mostPopulatedYear = 0;
@@ -26,6 +27,9 @@ public class PopulationFinder {
         }
       }
     }
+    long finish = System.currentTimeMillis();
+    long timeElapsed = finish - start;
+    System.out.println("time elapsed with ON^2: " + timeElapsed);
     return mostPopulatedYear;
   }
 }

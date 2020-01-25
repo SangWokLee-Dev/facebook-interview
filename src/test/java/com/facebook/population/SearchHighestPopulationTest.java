@@ -14,22 +14,18 @@ public class SearchHighestPopulationTest {
   public void testHighestPopulationYearON() {
     SearchHighestPopulation searchHighestPopulation =
         SearchHighestPopulation.searchHighestPopulationYear(data1);
-    long start = System.currentTimeMillis();
+
     int year = searchHighestPopulation.getHighestPopulationYear();
-    long finish = System.currentTimeMillis();
-    long timeElapsed = finish - start;
-    System.out.println("time elapsed with ON: " + timeElapsed);
+
     System.out.println(year);
   }
 
   @Test
   @DisplayName("Successfully search highest population year with O(N^2)")
   public void testHighestPopulationYearOSquaredN() {
-    long start = System.currentTimeMillis();
+
     int year = PopulationFinder.findYearWithHighestPopulation(data2);
-    long finish = System.currentTimeMillis();
-    long timeElapsed = finish - start;
-    System.out.println("time elapsed with ON^2: " + timeElapsed);
+
     System.out.println(year);
   }
 }

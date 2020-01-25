@@ -14,8 +14,9 @@ public class SearchHighestPopulation {
   }
 
   public static SearchHighestPopulation searchHighestPopulationYear(List<Person> people) {
+    long start = System.currentTimeMillis();
     TreeMap<Integer, Integer> birthYearMap = new TreeMap<>();
-    TreeMap<Integer, Integer> deathYearMap = new TreeMap<>();
+    Map<Integer, Integer> deathYearMap = new HashMap<>();
 
     // Time complexity O(P)
     people.forEach(
@@ -59,6 +60,9 @@ public class SearchHighestPopulation {
         startingYear = populationEntry.getKey();
       }
     }
+    long finish = System.currentTimeMillis();
+    long timeElapsed = finish - start;
+    System.out.println("time elapsed with ON: " + timeElapsed);
     return new SearchHighestPopulation(startingYear);
   }
 
