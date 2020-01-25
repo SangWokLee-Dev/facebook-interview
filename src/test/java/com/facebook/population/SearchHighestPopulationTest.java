@@ -7,8 +7,8 @@ import org.junit.jupiter.api.Test;
 public class SearchHighestPopulationTest {
 
   @Test
-  @DisplayName("Successfully search highest population year")
-  public void testHighestPopulationYear() {
+  @DisplayName("Successfully search highest population year with O(N+P+E)")
+  public void testHighestPopulationYearON() {
     List<Person> mockedData = MockData.getPeople();
     SearchHighestPopulation searchHighestPopulation =
         SearchHighestPopulation.searchHighestPopulationYear(mockedData);
@@ -20,11 +20,9 @@ public class SearchHighestPopulationTest {
   }
 
   @Test
-  @DisplayName("Successfully search highest population year")
-  public void testHighestPopulationYear2() {
+  @DisplayName("Successfully search highest population year with O(N^2)")
+  public void testHighestPopulationYearOSquaredN() {
     List<Person> mockedData = MockData.getPeople();
-    SearchHighestPopulation searchHighestPopulation =
-        SearchHighestPopulation.searchHighestPopulationYear(mockedData);
     long start = System.currentTimeMillis();
     PopulationFinder.findYearWithHighestPopulation(mockedData);
     long finish = System.currentTimeMillis();
