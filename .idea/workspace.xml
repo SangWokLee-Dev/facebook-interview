@@ -2,34 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1a7b64b-e1b8-420d-b6ed-ac5d081453bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/common/AbsoluteVal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/AddTwoNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/Conditional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/IntegerPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/RemoveDuplicatesArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/StringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/lists/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/lists/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/util/ArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/util/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/util/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/util/Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/TestAddTwoNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/TestTwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/AbsoluteValTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RemoveDuplicatesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/ReverseStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/TestReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/util/ArrayRotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/util/BinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/util/RecursiveTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/facebook/Facebook/FacebookApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/facebook/FacebookApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/facebook/Facebook/FacebookApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/facebook/FacebookApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/population/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/population/PopulationFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LengthOfLongestSubstringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/population/MockData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/AddTwoNums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/Conditional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/TestAddTwoNums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/TestTwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/facebook/leetcode/AddTwoNums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/facebook/leetcode/Conditional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/facebook/leetcode/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/facebook/leetcode/easy/RemoveDuplicatesArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/facebook/leetcode/easy/RemoveDuplicatesArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/facebook/leetcode/TestAddTwoNums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/facebook/leetcode/TestTwoSum.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,37 +31,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Facebook" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/IntegerPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/Conditional.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-245">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="457">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/PopulationFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,10 +78,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/MockData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1472">
+              <caret line="64" column="3" lean-forward="true" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1579917274563" expanded="true" signature="784:994" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/RemoveDuplicatesArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="35" column="44" selection-end-line="45" />
+            <state relative-caret-position="405">
+              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,10 +115,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/util/BinarySearchTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/IntegerPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-131">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,10 +136,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/util/RecursiveTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LengthOfLongestSubstringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="253">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,44 +148,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RemoveDuplicatesTest.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/StringPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/common/AbsoluteVal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#97#98#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="9120">
+              <caret line="657" selection-start-line="657" selection-end-line="657" />
             </state>
           </provider>
         </entry>
@@ -202,8 +201,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/StringPalindrome.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RemoveDuplicatesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/RemoveDuplicatesArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/facebook/population/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LengthOfLongestSubstringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/facebook/population/PopulationFinder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/facebook/population/MockData.java" />
       </list>
     </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="LengthOfLongestSubstringTest.testLengthOfLongestSubString" />
+    </enabled-run-configurations>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -212,20 +224,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="974" />
+    <option name="x" value="210" />
+    <option name="y" value="144" />
+    <option name="width" value="1260" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -291,56 +294,83 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
               <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="lists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
               <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="population" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
               <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="population" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -351,7 +381,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.facebook.population" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -365,82 +401,80 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RemoveDuplicatesTest.testRemoveDuplicates">
-    <configuration name="AbsoluteValTest.testAbsoluteVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SearchHighestPopulationTest.testHighestPopulationYear2">
+    <configuration name="LengthOfLongestSubstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
+          <option name="PATTERN" value="com.facebook.leetcode.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.AbsoluteValTest" />
-      <option name="METHOD_NAME" value="testAbsoluteVal" />
+      <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.LengthOfLongestSubstringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthOfLongestSubstringTest.testLengthOfLongestSubString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.facebook.leetcode.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.LengthOfLongestSubstringTest" />
+      <option name="METHOD_NAME" value="testLengthOfLongestSubString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumberTest.testPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchHighestPopulationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
+          <option name="PATTERN" value="com.facebook.population.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.PalindromeNumberTest" />
-      <option name="METHOD_NAME" value="testPalindrome" />
+      <option name="PACKAGE_NAME" value="com.facebook.population" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.population.SearchHighestPopulationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.facebook.population.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.facebook.population" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.population.SearchHighestPopulationTest" />
+      <option name="METHOD_NAME" value="testHighestPopulationYear" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeStringTest.testPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
+          <option name="PATTERN" value="com.facebook.population.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.PalindromeStringTest" />
-      <option name="METHOD_NAME" value="testPalindrome" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveDuplicatesTest.testRemoveDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Facebook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.RemoveDuplicatesTest" />
-      <option name="METHOD_NAME" value="testRemoveDuplicates" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseStringTest.testReverseInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Facebook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.ReverseStringTest" />
-      <option name="METHOD_NAME" value="testReverseInteger" />
+      <option name="PACKAGE_NAME" value="com.facebook.population" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.population.SearchHighestPopulationTest" />
+      <option name="METHOD_NAME" value="testHighestPopulationYear2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -448,11 +482,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RemoveDuplicatesTest.testRemoveDuplicates" />
-        <item itemvalue="JUnit.PalindromeStringTest.testPalindrome" />
-        <item itemvalue="JUnit.PalindromeNumberTest.testPalindrome" />
-        <item itemvalue="JUnit.ReverseStringTest.testReverseInteger" />
-        <item itemvalue="JUnit.AbsoluteValTest.testAbsoluteVal" />
+        <item itemvalue="JUnit.SearchHighestPopulationTest.testHighestPopulationYear2" />
+        <item itemvalue="JUnit.SearchHighestPopulationTest.testHighestPopulationYear" />
+        <item itemvalue="JUnit.SearchHighestPopulationTest" />
+        <item itemvalue="JUnit.LengthOfLongestSubstringTest.testLengthOfLongestSubString" />
+        <item itemvalue="JUnit.LengthOfLongestSubstringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -470,67 +504,68 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PalindromeNumberTest_testPalindrome - 2020.01.23 at 22h 42m 01s.xml">
-      <configuration name="PalindromeNumberTest.testPalindrome" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear - 2020.01.25 at 04h 11m 01s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeNumberTest_testPalindrome - 2020.01.23 at 22h 42m 09s.xml">
-      <configuration name="PalindromeNumberTest.testPalindrome" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear2 - 2020.01.25 at 04h 11m 05s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeStringTest_testPalindrome - 2020.01.23 at 22h 45m 09s.xml">
-      <configuration name="PalindromeStringTest.testPalindrome" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear2 - 2020.01.25 at 04h 11m 10s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeStringTest_testPalindrome - 2020.01.23 at 22h 45m 17s.xml">
-      <configuration name="PalindromeStringTest.testPalindrome" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear - 2020.01.25 at 04h 11m 14s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeStringTest_testPalindrome - 2020.01.23 at 22h 45m 52s.xml">
-      <configuration name="PalindromeStringTest.testPalindrome" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear2 - 2020.01.25 at 04h 11m 21s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeStringTest_testPalindrome - 2020.01.23 at 22h 46m 15s.xml">
-      <configuration name="PalindromeStringTest.testPalindrome" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear2 - 2020.01.25 at 04h 11m 28s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeStringTest_testPalindrome - 2020.01.23 at 22h 46m 49s.xml">
-      <configuration name="PalindromeStringTest.testPalindrome" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear - 2020.01.25 at 04h 11m 33s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeStringTest_testPalindrome - 2020.01.23 at 22h 47m 15s.xml">
-      <configuration name="PalindromeStringTest.testPalindrome" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear - 2020.01.25 at 04h 12m 10s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeStringTest_testPalindrome - 2020.01.23 at 22h 47m 24s.xml">
-      <configuration name="PalindromeStringTest.testPalindrome" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear2 - 2020.01.25 at 04h 12m 18s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_testRemoveDuplicates - 2020.01.24 at 13h 26m 18s.xml">
-      <configuration name="RemoveDuplicatesTest.testRemoveDuplicates" configurationId="JUnit" />
+    <history-entry file="SearchHighestPopulationTest_testHighestPopulationYear - 2020.01.25 at 04h 12m 28s.xml">
+      <configuration name="SearchHighestPopulationTest.testHighestPopulationYear" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="972" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" sideWeight="0.5017857" side_tool="true" visible="true" weight="0.24969475" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49821427" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.66167194" visible="true" weight="0.17765568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.33832806" side_tool="true" weight="0.1624305" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32981133" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32954547" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.36363637" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.24772727" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32993197" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="PMD" order="11" weight="0.5590909" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -595,70 +630,286 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeStringTest.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="155" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -692,33 +943,8 @@
     <entry file="file://$PROJECT_DIR$/mvnw.cmd">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/Credential.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="9" column="5" lean-forward="true" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/CredentialTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/util/ArrayRotationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/Credential.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/CredentialTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/util/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -743,81 +969,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/TestTwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/util/ArrayRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/util/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/ListNode.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/AbsoluteValTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/TestReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/TestAddTwoNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/ReverseStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -844,48 +1000,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RemoveDuplicatesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/AddTwoNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/Conditional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-245">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="250">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/IntegerPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/ReverseStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/util/BinarySearchTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/AddTwoNums.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/Conditional.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/TwoSum.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/TestReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="213">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -902,24 +1043,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/common/AbsoluteVal.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/util/BinarySearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RemoveDuplicatesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/TestTwoSum.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/TestAddTwoNums.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/util/ArrayRotationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="150">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/util/ArrayRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/util/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="1256" column="19" selection-start-line="1256" selection-start-column="19" selection-end-line="1256" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -930,17 +1100,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/common/AbsoluteVal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/RemoveDuplicatesArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="35" column="44" selection-end-line="45" />
+        <state relative-caret-position="405">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/IntegerPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9120">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LengthOfLongestSubstringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/PopulationFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="64" column="3" lean-forward="true" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1579917274563" expanded="true" signature="784:994" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/MockData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
