@@ -7,7 +7,7 @@ public class MockData {
 
   public static List<Person> getPeople() {
     List<Person> people = new ArrayList<>();
-    for (int index = 0; index < 1000000; index++) {
+    for (int index = 0; index < 100000; index++) {
       int yearOfBirth = getRandomNumberInRange(1900, 2020);
       int yearOfDeath = yearOfBirth + getRandomNumberInRange(1, 70);
       people.add(new Person(yearOfBirth, yearOfDeath));

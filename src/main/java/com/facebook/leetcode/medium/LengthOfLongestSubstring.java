@@ -6,22 +6,26 @@ import java.util.Map;
 public class LengthOfLongestSubstring {
 
   /**
-   * lengthOfLongestSubstring calculates the longest sub string
+   * lengthOfLongestSubstring searches the length of the longest substring value
    *
-   * @param s - Length Of Longest Sub string
-   * @return Longest substring
+   * @param s
+   * @return
    */
   public static int lengthOfLongestSubstring(String s) {
-    int n = s.length(), ans = 0;
-    Map<Character, Integer> map = new HashMap<>(); // current index of character
-    // try to extend the range [i, j]
-    for (int j = 0, i = 0; j < n; j++) {
-      if (map.containsKey(s.charAt(j))) {
-        i = Math.max(map.get(s.charAt(j)), i);
+
+    int strSize = s.length();
+    Map<Character, Integer> characterMap = new HashMap<>();
+    int answer = 0;
+    int indexComparer = 0;
+    for (int index = 0; index < strSize; index++) {
+      char currentChar = s.charAt(index);
+      if (characterMap.containsKey(currentChar)) {
+        indexComparer = Math.max(index, characterMap.get(currentChar));
       }
-      ans = Math.max(ans, j - i + 1);
-      map.put(s.charAt(j), j + 1);
+      characterMap.put(currentChar, index);
+      answer = Math.max(answer, index - indexComparer + 1);
     }
-    return ans;
+
+    return answer;
   }
 }
