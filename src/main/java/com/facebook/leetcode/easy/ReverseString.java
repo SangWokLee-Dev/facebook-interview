@@ -8,7 +8,6 @@ public class ReverseString {
 
       stringBuilder.append(data.charAt(data.length() - strIndex - 1));
     }
-
     return stringBuilder.toString();
   }
 }

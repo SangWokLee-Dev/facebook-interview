@@ -14,24 +14,19 @@ public class LongestPalindromicSubString {
     Set<String> palindromeSets = new HashSet<>();
     // O(N^2) time complexity
     for (int index = 0; index < strSize; index++) {
-      System.out.println("outer Index: " + index);
       for (int nextIndex = index + 1; nextIndex < strSize - index + 1; nextIndex++) {
-
-        System.out.println("inner Index: " + nextIndex);
-        palindromeSets.add(str.substring(index, nextIndex));
+        String currentStr = str.substring(index, nextIndex);
+        if (isPalindrome(currentStr)) {
+          palindromeSets.add(currentStr);
+        }
       }
     }
-
-    System.out.println(palindromeSets);
-
     // O(N^2) time complexity
     for (String nextPalindrome : palindromeSets) {
-      if (isPalindrome(nextPalindrome)) {
-        int palindromeSize = palindrome.length();
-        int nextPalindromeSize = nextPalindrome.length();
-        if (nextPalindromeSize > palindromeSize) {
-          palindrome = nextPalindrome;
-        }
+      int palindromeSize = palindrome.length();
+      int nextPalindromeSize = nextPalindrome.length();
+      if (nextPalindromeSize > palindromeSize) {
+        palindrome = nextPalindrome;
       }
     }
     return palindrome;
@@ -49,7 +44,6 @@ public class LongestPalindromicSubString {
     if (stringBuilder.toString().equals(str)) {
       return true;
     }
-
     return false;
   }
 }
