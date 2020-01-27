@@ -2,27 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dfdf9b2-58a7-4886-8d82-ce3f006d19fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/common/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/glassdoor/FindTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/GenerateParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/common/FactorialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/glassdoor/MockedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/glassdoor/TestFindTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/stack/TestStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/tree/TestBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/SearchInRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/IntegerToRomanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LongestPalindromicSubStringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/facebook/population/PopulationFinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/facebook/population/MockData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/facebook/population/MockData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/StringPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeStringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/facebook/leetcode/easy/StringPalindrome.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/facebook/leetcode/medium/LengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/facebook/leetcode/medium/LengthOfLongestSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/facebook/population/PopulationFinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/facebook/population/MockData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/facebook/population/MockData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/facebook/population/SearchHighestPopulationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/facebook/population/SearchHighestPopulationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/facebook/leetcode/easy/PalindromeStringTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,24 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/IntegerToRoman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
-              <caret line="62" selection-start-line="62" selection-end-line="64" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2402#2403#0" expanded="true" />
-                <element signature="e#2440#2441#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/glassdoor/FindTriplet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+            <state relative-caret-position="288">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,52 +40,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/tree/TestBinaryTree.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="40" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/MockData.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="17" selection-start-line="17" selection-end-line="24" selection-end-column="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/glassdoor/MockedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/glassdoor/TestFindTriplet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="23" column="7" selection-end-line="31" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/SearchInRotatedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -126,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/GenerateParenthesis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="60">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -136,10 +100,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="1233">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/lists/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LongestPalindromicSubStringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,6 +140,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>currentPalindrome</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -179,6 +169,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/facebook/glassdoor/FindTriplet.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/facebook/glassdoor/TestFindTriplet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/IntegerToRomanTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/IntegerToRoman.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LongestPalindromicSubStringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java" />
       </list>
     </option>
   </component>
@@ -194,19 +188,19 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-446" />
-    <option name="y" value="-1440" />
-    <option name="width" value="1278" />
-    <option name="height" value="1440" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-407" />
+    <option name="y" value="-1380" />
+    <option name="width" value="2465" />
+    <option name="height" value="1369" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,6 +241,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="glassdoor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -257,7 +260,26 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="lists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
@@ -296,6 +318,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
               <item name="glassdoor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -306,6 +337,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
@@ -360,23 +401,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestFindTriplet">
-    <configuration name="FactorialTest.testFactorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Facebook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.facebook.common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.common" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.common.FactorialTest" />
-      <option name="METHOD_NAME" value="testFactorial" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LongestPalindromicSubStringTest">
     <configuration name="LengthOfLongestSubstringTest.testLengthOfLongestSubString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
@@ -388,6 +413,37 @@
       <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
       <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.LengthOfLongestSubstringTest" />
       <option name="METHOD_NAME" value="testLengthOfLongestSubString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestPalindromicSubStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.facebook.leetcode.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.LongestPalindromicSubStringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestPalindromicSubStringTest.testLongestPalindromicSubString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.facebook.leetcode.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.LongestPalindromicSubStringTest" />
+      <option name="METHOD_NAME" value="testLongestPalindromicSubString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -424,29 +480,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStack.testStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Facebook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.facebook.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.stack" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.stack.TestStack" />
-      <option name="METHOD_NAME" value="testStack" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LongestPalindromicSubStringTest" />
+        <item itemvalue="JUnit.LongestPalindromicSubStringTest.testLongestPalindromicSubString" />
         <item itemvalue="JUnit.TestFindTriplet" />
         <item itemvalue="JUnit.TestFindTriplet.testFindTriplet" />
         <item itemvalue="JUnit.LengthOfLongestSubstringTest.testLengthOfLongestSubString" />
-        <item itemvalue="JUnit.TestStack.testStack" />
-        <item itemvalue="JUnit.FactorialTest.testFactorial" />
       </list>
     </recent_temporary>
   </component>
@@ -464,42 +504,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestFindTriplet - 2020.01.26 at 18h 00m 53s.xml">
-      <configuration name="TestFindTriplet" configurationId="JUnit" />
+    <history-entry file="LongestPalindromicSubStringTest_testLongestPalindromicSubString - 2020.01.27 at 15h 28m 00s.xml">
+      <configuration name="LongestPalindromicSubStringTest.testLongestPalindromicSubString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFindTriplet_testFindTriplet - 2020.01.26 at 18h 01m 40s.xml">
-      <configuration name="TestFindTriplet.testFindTriplet" configurationId="JUnit" />
+    <history-entry file="LongestPalindromicSubStringTest - 2020.01.27 at 15h 28m 53s.xml">
+      <configuration name="LongestPalindromicSubStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFindTriplet_testFindTriplet - 2020.01.26 at 18h 01m 48s.xml">
-      <configuration name="TestFindTriplet.testFindTriplet" configurationId="JUnit" />
+    <history-entry file="LongestPalindromicSubStringTest - 2020.01.27 at 15h 28m 57s.xml">
+      <configuration name="LongestPalindromicSubStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFindTriplet - 2020.01.26 at 18h 03m 07s.xml">
-      <configuration name="TestFindTriplet" configurationId="JUnit" />
+    <history-entry file="LongestPalindromicSubStringTest - 2020.01.27 at 15h 29m 21s.xml">
+      <configuration name="LongestPalindromicSubStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFindTriplet - 2020.01.26 at 18h 03m 52s.xml">
-      <configuration name="TestFindTriplet" configurationId="JUnit" />
+    <history-entry file="LongestPalindromicSubStringTest_testLongestPalindromicSubString - 2020.01.27 at 15h 29m 29s.xml">
+      <configuration name="LongestPalindromicSubStringTest.testLongestPalindromicSubString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFindTriplet - 2020.01.26 at 18h 04m 15s.xml">
-      <configuration name="TestFindTriplet" configurationId="JUnit" />
+    <history-entry file="LongestPalindromicSubStringTest - 2020.01.27 at 16h 11m 10s.xml">
+      <configuration name="LongestPalindromicSubStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFindTriplet - 2020.01.26 at 18h 04m 17s.xml">
-      <configuration name="TestFindTriplet" configurationId="JUnit" />
+    <history-entry file="LongestPalindromicSubStringTest - 2020.01.27 at 21h 51m 11s.xml">
+      <configuration name="LongestPalindromicSubStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFindTriplet - 2020.01.26 at 18h 05m 03s.xml">
-      <configuration name="TestFindTriplet" configurationId="JUnit" />
+    <history-entry file="LongestPalindromicSubStringTest - 2020.01.27 at 21h 52m 50s.xml">
+      <configuration name="LongestPalindromicSubStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFindTriplet - 2020.01.26 at 18h 05m 05s.xml">
-      <configuration name="TestFindTriplet" configurationId="JUnit" />
+    <history-entry file="LongestPalindromicSubStringTest - 2020.01.27 at 21h 52m 53s.xml">
+      <configuration name="LongestPalindromicSubStringTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFindTriplet - 2020.01.26 at 18h 05m 20s.xml">
-      <configuration name="TestFindTriplet" configurationId="JUnit" />
+    <history-entry file="LongestPalindromicSubStringTest - 2020.01.27 at 21h 56m 21s.xml">
+      <configuration name="LongestPalindromicSubStringTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-446" y="-1440" width="1278" height="1440" extended-state="0" />
+    <frame x="-446" y="-1417" width="2560" height="1417" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20711975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10405084" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,15 +548,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20948905" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954075" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17886792" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992453" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295063" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1859931" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.329927" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295063" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -527,17 +567,202 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
+          <line>39</line>
+          <properties class="com.facebook.leetcode.medium.LongestPalindromicSubString" method="isPalindrome">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/PopulationFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/PopulationFinder.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/tree/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -619,32 +844,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="62" selection-start-line="62" selection-end-line="64" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2402#2403#0" expanded="true" />
-            <element signature="e#2440#2441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/SearchHighestPopulationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/glassdoor/FindTriplet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -668,10 +871,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/StringPalindrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/glassdoor/FindTriplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="73" column="3" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/population/MockData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
+        <state relative-caret-position="240">
           <caret line="17" selection-start-line="17" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/TestReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeStringTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="62" selection-start-line="62" selection-end-line="64" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2402#2403#0" expanded="true" />
+            <element signature="e#2440#2441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/IntegerToRomanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -684,7 +935,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/GenerateParenthesis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -692,10 +943,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/lists/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/IntegerToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="23" column="7" selection-end-line="31" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/SearchInRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1233">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LongestPalindromicSubStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
