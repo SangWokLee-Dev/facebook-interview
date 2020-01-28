@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dfdf9b2-58a7-4886-8d82-ce3f006d19fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/PalindromeInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestSubstringWithoutRepeating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeIntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/ContainerWIthMostWaterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/ZigzagConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/LongestCommonPrefixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/ZigzagConversionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/facebook/leetcode/easy/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/facebook/leetcode/easy/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RomanToIntTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RomanToIntTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/facebook/leetcode/easy/RomanToIntTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/facebook/leetcode/easy/RomanToIntTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,19 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseString.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RomanToIntTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/IntegerToRomanTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="198">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,35 +36,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LengthOfLongestSubstring.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/AbsoluteValTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="19" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/PalindromeInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="8" selection-end-line="21" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -81,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeIntegerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="120">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -91,31 +57,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/GenerateParenthesis.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/ZigzagConversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="540">
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/ContainerWithMostWater.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/LongestCommonPrefix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            <state relative-caret-position="427">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/ContainerWIthMostWaterTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/LongestCommonPrefixTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="61" selection-end-line="25" />
+            <state relative-caret-position="808">
+              <caret line="29" column="38" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,10 +87,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/RomanToInt.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/IntegerPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/ZigzagConversionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/TestReverseInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="657" selection-start-line="657" selection-end-line="657" />
             </state>
           </provider>
         </entry>
@@ -172,7 +165,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/IntegerToRomanTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/IntegerToRoman.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LongestPalindromicSubStringTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RomanToIntTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/RomanToInt.java" />
@@ -180,6 +172,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeIntegerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/ContainerWithMostWater.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/ContainerWIthMostWaterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RomanToIntTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/ZigzagConversionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/ZigzagConversion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/LongestCommonPrefixTest.java" />
       </list>
     </option>
   </component>
@@ -194,6 +191,12 @@
         <option name="vmOptionsForImporter" value="-Xms256m -Xmx512m -Djavax.net.ssl.keyStore=/Users/lees97/.ssh/developerCertificate.p12 -Djavax.net.ssl.keyStorePassword=Kpoder159357! -Djavax.net.ssl.keyStoreType=PKCS12 -Djavax.net.ssl.trustStore=/Users/lees97/certs/jssecacerts -Djavax.net.ssl.trustStorePassword=changeit" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="844" />
@@ -372,15 +375,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="population" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Facebook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="facebook-interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="facebook" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -408,39 +402,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ContainerWIthMostWaterTest">
-    <configuration name="ContainerWIthMostWaterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LongestCommonPrefixTest">
+    <configuration name="LongestCommonPrefixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.medium.*" />
+          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.ContainerWIthMostWaterTest" />
+      <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.LongestCommonPrefixTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainerWIthMostWaterTest.testContainerWithMostWater" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanToIntTest.testRomanToInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.medium.*" />
+          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.ContainerWIthMostWaterTest" />
-      <option name="METHOD_NAME" value="testContainerWithMostWater" />
+      <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.RomanToIntTest" />
+      <option name="METHOD_NAME" value="testRomanToInteger" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromicSubStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ZigzagConversionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
         <pattern>
@@ -449,38 +443,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.LongestPalindromicSubStringTest" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.ZigzagConversionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ZigzagConversionTest.testZigZagConversion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
+          <option name="PATTERN" value="com.facebook.leetcode.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.PalindromeIntegerTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.ZigzagConversionTest" />
+      <option name="METHOD_NAME" value="testZigZagConversion" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeIntegerTest.testIntegerPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ZigzagConversionTest.testzigZagConversion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
+          <option name="PATTERN" value="com.facebook.leetcode.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.PalindromeIntegerTest" />
-      <option name="METHOD_NAME" value="testIntegerPalindrome" />
+      <option name="PACKAGE_NAME" value="com.facebook.leetcode.medium" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.medium.ZigzagConversionTest" />
+      <option name="METHOD_NAME" value="testzigZagConversion" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -488,11 +483,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ContainerWIthMostWaterTest" />
-        <item itemvalue="JUnit.ContainerWIthMostWaterTest.testContainerWithMostWater" />
-        <item itemvalue="JUnit.PalindromeIntegerTest" />
-        <item itemvalue="JUnit.PalindromeIntegerTest.testIntegerPalindrome" />
-        <item itemvalue="JUnit.LongestPalindromicSubStringTest" />
+        <item itemvalue="JUnit.LongestCommonPrefixTest" />
+        <item itemvalue="JUnit.ZigzagConversionTest" />
+        <item itemvalue="JUnit.ZigzagConversionTest.testZigZagConversion" />
+        <item itemvalue="JUnit.ZigzagConversionTest.testzigZagConversion" />
+        <item itemvalue="JUnit.RomanToIntTest.testRomanToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -510,42 +505,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LongestPalindromicSubStringTest - 2020.01.27 at 21h 56m 21s.xml">
-      <configuration name="LongestPalindromicSubStringTest" configurationId="JUnit" />
+    <history-entry file="LongestCommonPrefixTest - 2020.01.28 at 13h 36m 57s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanToIntTest_testRomanToInteger - 2020.01.27 at 22h 26m 53s.xml">
-      <configuration name="RomanToIntTest.testRomanToInteger" configurationId="JUnit" />
+    <history-entry file="LongestCommonPrefixTest - 2020.01.28 at 13h 38m 26s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanToIntTest_testRomanToInteger - 2020.01.27 at 22h 28m 23s.xml">
-      <configuration name="RomanToIntTest.testRomanToInteger" configurationId="JUnit" />
+    <history-entry file="LongestCommonPrefixTest - 2020.01.28 at 13h 38m 38s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanToIntTest_testRomanToInteger - 2020.01.27 at 22h 40m 25s.xml">
-      <configuration name="RomanToIntTest.testRomanToInteger" configurationId="JUnit" />
+    <history-entry file="LongestCommonPrefixTest - 2020.01.28 at 13h 44m 25s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestPalindromicSubStringTest - 2020.01.27 at 22h 44m 40s.xml">
-      <configuration name="LongestPalindromicSubStringTest" configurationId="JUnit" />
+    <history-entry file="LongestCommonPrefixTest - 2020.01.28 at 13h 46m 04s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeIntegerTest_testIntegerPalindrome - 2020.01.27 at 23h 06m 51s.xml">
-      <configuration name="PalindromeIntegerTest.testIntegerPalindrome" configurationId="JUnit" />
+    <history-entry file="LongestCommonPrefixTest - 2020.01.28 at 13h 46m 30s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PalindromeIntegerTest - 2020.01.27 at 23h 07m 19s.xml">
-      <configuration name="PalindromeIntegerTest" configurationId="JUnit" />
+    <history-entry file="LongestCommonPrefixTest - 2020.01.28 at 13h 47m 33s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContainerWIthMostWaterTest_testContainerWithMostWater - 2020.01.28 at 10h 26m 13s.xml">
-      <configuration name="ContainerWIthMostWaterTest.testContainerWithMostWater" configurationId="JUnit" />
+    <history-entry file="LongestCommonPrefixTest - 2020.01.28 at 13h 50m 27s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContainerWIthMostWaterTest_testContainerWithMostWater - 2020.01.28 at 10h 29m 35s.xml">
-      <configuration name="ContainerWIthMostWaterTest.testContainerWithMostWater" configurationId="JUnit" />
+    <history-entry file="LongestCommonPrefixTest - 2020.01.28 at 14h 04m 00s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContainerWIthMostWaterTest_testContainerWithMostWater - 2020.01.28 at 10h 34m 03s.xml">
-      <configuration name="ContainerWIthMostWaterTest.testContainerWithMostWater" configurationId="JUnit" />
+    <history-entry file="LongestCommonPrefixTest - 2020.01.28 at 14h 05m 42s.xml">
+      <configuration name="LongestCommonPrefixTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="844" y="-1440" width="1270" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35912052" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26058632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -554,7 +549,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17956205" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21021898" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992453" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -567,7 +562,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32980457" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -860,13 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/TestReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeStringTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/population/SearchHighestPopulation.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -894,16 +882,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RomanToIntTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="16" selection-start-line="16" selection-start-column="2" selection-end-line="18" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/LongestPalindromicSubStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -918,13 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/IntegerPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -986,13 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/PalindromeInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -1014,23 +978,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/ContainerWithMostWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeIntegerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/IntegerToRomanTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1043,8 +990,118 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/ContainerWIthMostWaterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="61" selection-end-line="25" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/ContainerWithMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RemoveDuplicatesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/TestReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/medium/ZigzagConversionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/ZigzagConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/IntegerPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RomanToIntTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/AbsoluteValTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/PalindromeIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/LongestCommonPrefixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="29" column="38" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
