@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class MockData {
-
   public static List<Person> getPeople() {
     List<Person> people = new ArrayList<>();
     for (int index = 0; index < 100000; index++) {
@@ -16,11 +15,9 @@ public class MockData {
   }
 
   private static int getRandomNumberInRange(int min, int max) {
-
     if (min >= max) {
       throw new IllegalArgumentException("max must be greater than min");
     }
-
     return (int) (Math.random() * ((max - min) + 1)) + min;
   }
 }

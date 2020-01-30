@@ -1,4 +1,4 @@
-package com.facebook.stack;
+package com.facebook.data_structure.stack;
 
 public class Stack {
   static final int MAX = 1000;

@@ -1,4 +1,4 @@
-package com.facebook.stack;
+package com.facebook.data_structure.stack;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
