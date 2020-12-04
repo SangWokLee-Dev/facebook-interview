@@ -23,28 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dfdf9b2-58a7-4886-8d82-ce3f006d19fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/TestThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/algorithm/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/algorithm/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/algorithm/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/JewelsAndStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/NumOfStepsToReduceNumToZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/RichestCustomerWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/algorithm/BinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/algorithm/BubbleSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/BSTTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/JewelsAndStonesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/NumOfStepsToReduceNumToZeroTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/RichestCustomerWealthTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Facebook.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Facebook.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/facebook/data_structure/stack/CustomStackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/facebook/data_structure/stack/CustomStackTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/BSTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/BSTTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +70,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="JUnit.BSTTest">
+  <component name="RunManager" selected="JUnit.BSTTest.testBSTExampleOne">
     <configuration name="BSTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="facebook-interview" />
       <extension name="coverage">
@@ -105,32 +86,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JewelsAndStonesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BSTTest.testBST" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="facebook-interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.easy.bst.*" />
+          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.JewelsAndStonesTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.BSTTest" />
+      <option name="METHOD_NAME" value="testBST" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JewelsAndStonesTest.testJewelsAndStonesExampleOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BSTTest.testBSTExampleOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="facebook-interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.facebook.leetcode.easy.bst.*" />
+          <option name="PATTERN" value="com.facebook.leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.facebook.leetcode.easy" />
-      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.JewelsAndStonesTest" />
-      <option name="METHOD_NAME" value="testJewelsAndStonesExampleOne" />
+      <option name="MAIN_CLASS_NAME" value="com.facebook.leetcode.easy.BSTTest" />
+      <option name="METHOD_NAME" value="testBSTExampleOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -169,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BSTTest.testBSTExampleOne" />
         <item itemvalue="JUnit.BSTTest" />
+        <item itemvalue="JUnit.BSTTest.testBST" />
         <item itemvalue="JUnit.NumOfStepsToReduceNumToZeroTest" />
         <item itemvalue="JUnit.NumOfStepsToReduceNumToZeroTest.setNumOfStepsToReduceNumToZeroTestExampleOne" />
-        <item itemvalue="JUnit.JewelsAndStonesTest" />
-        <item itemvalue="JUnit.JewelsAndStonesTest.testJewelsAndStonesExampleOne" />
       </list>
     </recent_temporary>
   </component>
@@ -204,79 +186,79 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="636" height="688" key="DebuggerActiveHint" timestamp="1606915705734">
+    <state width="636" height="688" key="DebuggerActiveHint" timestamp="1607072664752">
       <screen x="-617" y="-1417" width="2560" height="1417" />
     </state>
-    <state width="636" height="688" key="DebuggerActiveHint/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1606915705734" />
+    <state width="636" height="688" key="DebuggerActiveHint/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607072664752" />
     <state width="417" height="466" key="DebuggerActiveHint/0.23.1680.960@0.23.1680.960" timestamp="1606386797358" />
-    <state width="2518" height="361" key="GridCell.Tab.0.bottom" timestamp="1607068852113">
+    <state width="2518" height="376" key="GridCell.Tab.0.bottom" timestamp="1607073210056">
       <screen x="-617" y="-1417" width="2560" height="1417" />
     </state>
     <state width="2518" height="343" key="GridCell.Tab.0.bottom/-617.-1417.2560.1353/0.23.1680.1027@-617.-1417.2560.1353" timestamp="1606977844931" />
-    <state width="2518" height="361" key="GridCell.Tab.0.bottom/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607068852113" />
+    <state width="2518" height="376" key="GridCell.Tab.0.bottom/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607073210056" />
     <state width="1638" height="312" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1606386715145" />
     <state width="1638" height="320" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1606665588074" />
     <state width="1638" height="217" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1606650523872" />
     <state width="1638" height="320" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1606612664811" />
-    <state width="2518" height="361" key="GridCell.Tab.0.center" timestamp="1607068852112">
+    <state width="2518" height="376" key="GridCell.Tab.0.center" timestamp="1607073210055">
       <screen x="-617" y="-1417" width="2560" height="1417" />
     </state>
     <state width="2518" height="343" key="GridCell.Tab.0.center/-617.-1417.2560.1353/0.23.1680.1027@-617.-1417.2560.1353" timestamp="1606977844930" />
-    <state width="2518" height="361" key="GridCell.Tab.0.center/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607068852112" />
+    <state width="2518" height="376" key="GridCell.Tab.0.center/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607073210055" />
     <state width="1638" height="312" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1606386715143" />
     <state width="1638" height="320" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1606665588073" />
     <state width="1638" height="217" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1606650523871" />
     <state width="1638" height="320" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1606612664809" />
-    <state width="2518" height="361" key="GridCell.Tab.0.left" timestamp="1607068852111">
+    <state width="2518" height="376" key="GridCell.Tab.0.left" timestamp="1607073210054">
       <screen x="-617" y="-1417" width="2560" height="1417" />
     </state>
     <state width="2518" height="343" key="GridCell.Tab.0.left/-617.-1417.2560.1353/0.23.1680.1027@-617.-1417.2560.1353" timestamp="1606977844930" />
-    <state width="2518" height="361" key="GridCell.Tab.0.left/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607068852111" />
+    <state width="2518" height="376" key="GridCell.Tab.0.left/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607073210054" />
     <state width="1638" height="312" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1606386715141" />
     <state width="1638" height="320" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1606665588072" />
     <state width="1638" height="217" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1606650523871" />
     <state width="1638" height="320" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1606612664809" />
-    <state width="2518" height="361" key="GridCell.Tab.0.right" timestamp="1607068852112">
+    <state width="2518" height="376" key="GridCell.Tab.0.right" timestamp="1607073210056">
       <screen x="-617" y="-1417" width="2560" height="1417" />
     </state>
     <state width="2518" height="343" key="GridCell.Tab.0.right/-617.-1417.2560.1353/0.23.1680.1027@-617.-1417.2560.1353" timestamp="1606977844931" />
-    <state width="2518" height="361" key="GridCell.Tab.0.right/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607068852112" />
+    <state width="2518" height="376" key="GridCell.Tab.0.right/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607073210056" />
     <state width="1638" height="312" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1606386715144" />
     <state width="1638" height="320" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1606665588073" />
     <state width="1638" height="217" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1606650523871" />
     <state width="1638" height="320" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1606612664810" />
-    <state width="2518" height="376" key="GridCell.Tab.1.bottom" timestamp="1607064129023">
+    <state width="2518" height="376" key="GridCell.Tab.1.bottom" timestamp="1607073210058">
       <screen x="-617" y="-1417" width="2560" height="1417" />
     </state>
     <state width="2518" height="357" key="GridCell.Tab.1.bottom/-617.-1417.2560.1353/0.23.1680.1027@-617.-1417.2560.1353" timestamp="1606975134543" />
-    <state width="2518" height="376" key="GridCell.Tab.1.bottom/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607064129023" />
+    <state width="2518" height="376" key="GridCell.Tab.1.bottom/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607073210058" />
     <state width="1638" height="312" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1606386715966" />
     <state width="1638" height="320" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1606665588077" />
     <state width="1638" height="320" key="GridCell.Tab.1.bottom/0.23.1680.966@0.23.1680.966" timestamp="1606555890808" />
     <state width="1638" height="320" key="GridCell.Tab.1.bottom/0.23.1680.967@0.23.1680.967" timestamp="1606612664616" />
-    <state width="2518" height="376" key="GridCell.Tab.1.center" timestamp="1607064129022">
+    <state width="2518" height="376" key="GridCell.Tab.1.center" timestamp="1607073210057">
       <screen x="-617" y="-1417" width="2560" height="1417" />
     </state>
     <state width="2518" height="357" key="GridCell.Tab.1.center/-617.-1417.2560.1353/0.23.1680.1027@-617.-1417.2560.1353" timestamp="1606975134542" />
-    <state width="2518" height="376" key="GridCell.Tab.1.center/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607064129022" />
+    <state width="2518" height="376" key="GridCell.Tab.1.center/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607073210057" />
     <state width="1638" height="312" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1606386715964" />
     <state width="1638" height="320" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1606665588075" />
     <state width="1638" height="320" key="GridCell.Tab.1.center/0.23.1680.966@0.23.1680.966" timestamp="1606555890807" />
     <state width="1638" height="320" key="GridCell.Tab.1.center/0.23.1680.967@0.23.1680.967" timestamp="1606612664616" />
-    <state width="2518" height="376" key="GridCell.Tab.1.left" timestamp="1607064129021">
+    <state width="2518" height="376" key="GridCell.Tab.1.left" timestamp="1607073210057">
       <screen x="-617" y="-1417" width="2560" height="1417" />
     </state>
     <state width="2518" height="357" key="GridCell.Tab.1.left/-617.-1417.2560.1353/0.23.1680.1027@-617.-1417.2560.1353" timestamp="1606975134542" />
-    <state width="2518" height="376" key="GridCell.Tab.1.left/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607064129021" />
+    <state width="2518" height="376" key="GridCell.Tab.1.left/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607073210057" />
     <state width="1638" height="312" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1606386715963" />
     <state width="1638" height="320" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1606665588075" />
     <state width="1638" height="320" key="GridCell.Tab.1.left/0.23.1680.966@0.23.1680.966" timestamp="1606555890806" />
     <state width="1638" height="320" key="GridCell.Tab.1.left/0.23.1680.967@0.23.1680.967" timestamp="1606612664615" />
-    <state width="2518" height="376" key="GridCell.Tab.1.right" timestamp="1607064129023">
+    <state width="2518" height="376" key="GridCell.Tab.1.right" timestamp="1607073210057">
       <screen x="-617" y="-1417" width="2560" height="1417" />
     </state>
     <state width="2518" height="357" key="GridCell.Tab.1.right/-617.-1417.2560.1353/0.23.1680.1027@-617.-1417.2560.1353" timestamp="1606975134542" />
-    <state width="2518" height="376" key="GridCell.Tab.1.right/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607064129023" />
+    <state width="2518" height="376" key="GridCell.Tab.1.right/-617.-1417.2560.1417/0.23.1680.963@-617.-1417.2560.1417" timestamp="1607073210057" />
     <state width="1638" height="312" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1606386715965" />
     <state width="1638" height="320" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1606665588076" />
     <state width="1638" height="320" key="GridCell.Tab.1.right/0.23.1680.966@0.23.1680.966" timestamp="1606555890807" />
@@ -539,6 +521,56 @@
           <line>35</line>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/medium/LongestPalindromicSubString.java</url>
           <line>34</line>
@@ -554,6 +586,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/facebook/leetcode/easy/bst/BST.java</url>
+          <line>14</line>
+          <properties class="com.facebook.leetcode.easy.bst.BST" method="dfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/facebook/leetcode/easy/BSTTest.java</url>
+          <line>11</line>
+          <properties class="com.facebook.leetcode.easy.BSTTest" method="testBSTExampleOne">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
