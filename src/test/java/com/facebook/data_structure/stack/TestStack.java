@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 public class TestStack {
 
   @Test
-  @DisplayName("Successfully implemnted stack")
+  @DisplayName("Successfully implemented stack")
   public void testStack() {
     Stack stack = new Stack();
 

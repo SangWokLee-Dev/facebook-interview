@@ -9,7 +9,7 @@ public class PalindromeNumberTest {
   @Test
   @DisplayName("Testing palindrome number")
   public void testPalindrome() {
-    boolean truth = IntegerPalindrome.integerPalindrome(122);
+    boolean truth = IntegerPalindrome.integerPalindrome(121);
 
     assertEquals(true, truth);
   }

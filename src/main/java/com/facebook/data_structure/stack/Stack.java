@@ -1,6 +1,6 @@
 package com.facebook.data_structure.stack;
 
-public class Stack {
+public class  Stack {
   static final int MAX = 1000;
   int top;
   int a[] = new int[MAX];
